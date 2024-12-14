@@ -69,19 +69,5 @@ Follow these steps to set up the project locally:
     php artisan serve
     ```
 
-## 💡 Contributing
 
-Have ideas to improve the system? Feel free to:
 
-- Submit a **Pull Request (PR)**
-- Create an **Issue** for feature requests or bugs
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-> Find me on [GitHub](https://github.com/mamun724682) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/mamun724682)
-
----
